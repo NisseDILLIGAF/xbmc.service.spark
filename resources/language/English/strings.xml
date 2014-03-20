@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<strings>
+   <string id="32001">Your Spark settings</string>
+   <string id="32011">deviceID</string>
+   <string id="32012">accessToken</string>
+   <string id="32013">debug</string>
+   <string id="32014">Only show sparks with these keywords (comma seperated list)</string>
+   <string id="32053">Time (seconds)</string>
+</strings>
